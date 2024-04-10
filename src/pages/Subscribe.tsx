@@ -36,11 +36,11 @@ export function Subscribe() {
 
   return (
     <div className="min-h-screen bg-fundoHome bg-cover bg-no-repeat flex flex-col items-center">
-      <div className="w-full max-w-[1100px] flex items-center justify-between mt-20 mx-auto">
+      <div className="w-full max-w-[600px] flex items-center justify-between mt-20 mx-auto">
         <div className="max-w-[640px]">
           <MinhaLogo />
 
-          <h1 className="mt-8 text-[2.5rem] leading-tight">
+          <h1 className="mt-8 text-[2.0rem] leading-tight">
             Conheça a gameplay avançada do Mono{" "}
             <strong className="text-blue-500">Yasuo</strong>&
             <strong className="text-red-500">Yone</strong> !
