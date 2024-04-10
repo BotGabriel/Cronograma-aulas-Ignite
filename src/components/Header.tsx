@@ -1,11 +1,9 @@
-import { MinhLogo } from './MinhaLogo';
+import { MinhaLogo } from "./MinhaLogo";
 
 export function Header() {
   return (
-
     <header className=" w-full p-3 flex items-center justify-center bg-fundoEvent bg-cover bg-no-repeat  ">
-      <MinhLogo/>
+      <MinhaLogo />
     </header>
-  )
-  
+  );
 }
